@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi,
+- 🔭 I'm a chemistry graduate student at Tulane
+- 🔭 I’m currently working on small molecules activation and Metal-Hydride chemistry
+- 🌱 I’m currently learning python and hope to use this in future for computational chemistry.
+- 👯 I’m looking to collaborate on exciting small projects in Python.
+- ⚡ Fun fact: I love teaching, and spending time with my system.
 
-<!--
-**Oluokunolakunle/oluokunolakunle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--Hi,
+I'm a chemistry graduate student at Tulane
+- 🔭 I’m currently working on small molecules activation and Metal-Hydride chemistry
+- 🌱 I’m currently learning python and hope to use this in future for computational chemistry.
+- 👯 I’m looking to collaborate on exciting small projects on Python.
+- ⚡ Fun fact: I love teaching, and spending time with my system.
 -->
